@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor]()
-- Live Site URL: [Github Pages]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/four-card-feature-section-using-css-grid-DpXQaukrKa)
+- Live Site URL: [Github Pages](https://bccpadge.github.io/four-card-feature-section/)
 
 ## My process
 
